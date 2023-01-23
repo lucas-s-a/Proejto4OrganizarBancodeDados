@@ -20,8 +20,9 @@ ele importará o banco de dados para ser ultilizado após isso você pode execut
 o projeto conta com um dashboard em power Bi que foi importado do SQl o arquivo tem um dashboard com uma visualização clara e objetiva dos dados.
 
 Colaboladores:
-
+````sh
 Lucas - Receber os dados e importar para o SQL
 Thierry - Gráfico e diagrama SQL
 Marlon - READ.me
 Gabriel - Dashboard
+````

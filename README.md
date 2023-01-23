@@ -13,7 +13,7 @@ mysql -u root
 
 após abrir o MariaDB que gerencia o banco de dados executar o comando:
 
-SOURCE nba_datb.sql;
+SOURCE Nba_db.sql;
 
 ele importará o banco de dados para ser ultilizado após isso você pode executar uma das 7 consultas que estão em uma pasta 'consulta em sql' que retornará valores referente as questões elaboradas (todas elas tem comentário e estão no formato Mysql File para auxiliar a consulta)
 
